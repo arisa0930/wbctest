@@ -307,7 +307,7 @@ aside p {
 /* menu---------------------------------------------- */
 
 #menu {
-    background-image: url(./images/menu.bd.png);
+    background-image: url(./images/menu.png);
     min-height: 100vh;
 }
 .menu-content {
@@ -333,7 +333,7 @@ aside p {
 
 /* contact----------------------------- */
 #contact {
-    background-image: url(./images/cintact.bd.jpg);
+    background-image: url(./images/contact.jpg);
     min-height: 100vh;
 }
 /* フォーム */
